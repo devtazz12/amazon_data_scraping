@@ -1,0 +1,10 @@
+# amazon_data_scraping
+
+you have to install pandas using command pip install pandas
+you also have to install beautifulsoup using command pip install beautifulsoup4
+
+
+
+in headers use your own  computer headers that you can get from inspect
+
+   
